@@ -20,8 +20,8 @@ body {
 }
 
 #header {
-	font: bold 4.6em/.2em "Libre Baskerville:700";
 	color: #98ada6;
+	font: bold 4.6em/.2em "Libre Baskerville:700";
 }
 
 .sub-header {
@@ -65,6 +65,7 @@ section#about a:hover{
 }
 
 header h1#header a {
+	color: #98ada6;
 	text-decoration: none;
 }
 
